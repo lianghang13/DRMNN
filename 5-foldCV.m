@@ -1,7 +1,7 @@
 clear all
-load virusdrug;
-load virussim;
-load drugsim;
+load virus_drug_matrix;
+load virussim_matrix;
+load drugsim_matrix;
 maxiter = 300;
 alpha = 100;
 beta = 100;
